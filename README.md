@@ -20,7 +20,7 @@
     <img align="center" alt="Rubens-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Rubens-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </kbd>
-    <img align="right" alt="Rubens-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
+    <!--<img align="right" alt="Rubens-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">-->
 </div>
   
   ##
