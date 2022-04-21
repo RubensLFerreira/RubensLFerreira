@@ -1,4 +1,13 @@
-### <div align="center"> Hello! 🚀 I am a 4th period student of Information Systems. 💻 </div> <br>
+### <div align="center"> Hello! 🚀 I am a 4th period student of Information Systems. <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
+</div> <br>
+<details>
+    <summary>
+         Who I am?
+    </summary>
+    
+Empty for now.
+</details>
+
 <div align="center">
   <a href="https://github.com/RubensLFerreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RubensLFerreira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
