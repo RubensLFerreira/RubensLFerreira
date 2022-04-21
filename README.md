@@ -1,5 +1,5 @@
-### <div align="center"> Hello! 🚀 I am a 4th period student of Information Systems. <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
-</div> <br>
+Hi, there! 🚀 It's me, Rubens! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
+<br>
 <details>
     <summary>
          Who I am?
