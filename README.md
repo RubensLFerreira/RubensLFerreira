@@ -8,8 +8,8 @@ Hi, there! 🚀 It's me, Rubens! <img src="https://media.giphy.com/media/ZbNJojS
 🏡 I'm Brazilian, I live in Ceará.<br>
 🏢 I'm majoring in Information Systems (IFCE)<br>
 :mortar_board: I am currently in the 5th semester<br>
-📚 I'm mainly studying Node.Js<br>
-✏️ I'm also studying JS and Database<br>
+📚 I'm mainly studying Node.Js and Express<br>
+✏️ I'm also studying ReactJS<br>
 :clapper: I would talk for hours about cinema and geek culture<br>
 :speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
 </details>
