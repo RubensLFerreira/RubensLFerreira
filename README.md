@@ -54,5 +54,5 @@ Hi, there! 🚀 It's me, Rubens! <img src="https://media.giphy.com/media/ZbNJojS
  
   ![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg)
  
- <img src="https://komarev.com/ghpvc/?username=RubensLFerreira&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
+
 </div>
