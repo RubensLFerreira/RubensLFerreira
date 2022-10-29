@@ -1,5 +1,7 @@
-Hi, there! 🚀 It's me, Rubens! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"> 
-<br>
+<div style="display: inline_block" border: "1px solid orange"><br>
+    <h3>Hi, there! 🚀 It's me, Rubens Lima! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"></h3>
+</div>
+    
 <details>
     <summary>
          Who I am?
@@ -42,13 +44,12 @@ Hi, there! 🚀 It's me, Rubens! <img src="https://media.giphy.com/media/ZbNJojS
     </a>
     <!--     <img align="right" alt="Rubens-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif"> -->
 </div>
-  
-  ##
  
 <div> 
     <h3>Contacts</h3>
     <a href="https://www.instagram.com/rubens_heisenberg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://dev.to/rubenslferreira" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
     <a href = "mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubens-lima-363526149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
