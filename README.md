@@ -1,6 +1,4 @@
-<div style="display: inline_block" border: "1px solid orange"><br>
-    <h3>Hi, there! 🚀 It's me, Rubens Lima! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30"></h3>
-</div>
+### Hi, there! 🚀 It's me, Rubens Lima! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30">
     
 <details>
     <summary>
