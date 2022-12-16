@@ -14,6 +14,7 @@
 :speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
 </details>
 
+
 <div align="left">
   <a href="https://github.com/RubensLFerreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RubensLFerreira&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
@@ -51,7 +52,9 @@
     <a href = "mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubens-lima-363526149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg) 
+    
+ <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rubenslferreira&bg_color=0d1117&color=04d361&line=5d3299&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
  <img src="https://komarev.com/ghpvc/?username=RubensLFerreira&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 </div>
