@@ -7,8 +7,8 @@
     
 🏡 I'm Brazilian, I live in Ceará.<br>
 🏢 I'm majoring in Information Systems (IFCE)<br>
-:mortar_board: I am currently in the 5th semester<br>
-📚 I'm mainly studying Node.Js and Express<br>
+:mortar_board: I am currently in the 6th semester<br>
+📚 I'm mainly studying Node.Js and TypeScript<br>
 ✏️ I'm also studying ReactJS<br>
 :clapper: I would talk for hours about cinema and geek culture<br>
 :speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
@@ -22,26 +22,19 @@
 </div>
 
 <div style="display: inline_block" border: "1px solid orange"><br>
-    <h3>Technologies</h3>
+    <h3>Technologies used</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,prisma,postgres,postman,jest&theme=dark" />
+    </a>  
 </div>
 
-<div>
-    <!-- <kbd>
-    <kbd>Front-end && Back-end</kbd>
-    <br>
-    <br>
-     <img align="center" alt="Rubens-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rubens-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rubens-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rubens-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Rubens-ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img align="center" alt="Rubens-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-    <img align="center" alt="Rubens-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    </kbd> -->
+     
+    
+<div style="display: inline_block" border: "1px solid orange"><br>
+    <h3>Technologies I use the basics</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,prisma,postgres,express,bootstrap,pug&theme=dark" />
-    </a>
-    <!--     <img align="right" alt="Rubens-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif"> -->
+        <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,materialui&theme=dark" />
+    </a>  
 </div>
  
 <div> 
@@ -52,7 +45,7 @@
     <a href = "mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubens-lima-363526149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg) 
+<!-- ![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg)  -->
     
  <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rubenslferreira&bg_color=0d1117&color=04d361&line=5d3299&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
