@@ -33,7 +33,7 @@
 <div style="display: inline_block" border: "1px solid orange"><br>
     <h3>Technologies I use the basics</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,materialui&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,styledcomponents,netlify,materialui&theme=dark" />
     </a>  
 </div>
  
