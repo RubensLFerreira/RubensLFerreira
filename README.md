@@ -28,8 +28,6 @@
     </a>  
 </div>
 
-     
-    
 <div style="display: inline_block" border: "1px solid orange"><br>
     <h3>Technologies I use the basics</h3>
     <a href="https://skillicons.dev">
@@ -41,7 +39,7 @@
     <h3>Contacts</h3>
     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://dev.to/rubenslferreira" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-    <a href = "mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubens-lima-363526149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 <!-- ![Snake animation](https://github.com/RubensLFerreira/RubensLFerreira/blob/output/github-contribution-grid-snake.svg)  -->
