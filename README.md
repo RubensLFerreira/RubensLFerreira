@@ -1,18 +1,18 @@
 ### Hi, there! 🚀 It's me, Rubens Lima! <img src="https://media.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.gif" width="30">
     
-<details>
-    <summary>
-         Who I am?
-    </summary>
-    
-🏡 I'm Brazilian, I live in Ceará.<br>
-🏢 I'm majoring in Information Systems (IFCE)<br>
-:mortar_board: I am currently in the 6th semester<br>
-📚 I'm mainly studying Node.Js and TypeScript<br>
-✏️ I'm also studying ReactJS<br>
-:clapper: I would talk for hours about cinema and geek culture<br>
-:speech_balloon: If you have any questions or just want to talk about programming, get in touch!<br>
-</details>
+```javascript
+const RubensLima = {
+    "Who I'm": ["Rubens Lima", "25 old", "I'm live in Ceará"],
+    "Education": ["Bachelor of Information Systems - IFCE 7/8"],
+    "Technologies": {
+        "back-end": ["JavaScript", "TypeScript", "Nodejs", "express", "Prisma", "Mongoose"],
+        "Fron-end": ["React", "Vite", "Bootstrap", "Material UI", "Vercel"],
+        "Database": ["Postgres", "MySQL", "MongoDB"],
+        "Tools": ["Insomnia", "Jest"],
+        "Methodology": ["SCRUM"]
+    }
+}
+```
 
 
 <div align="left">
@@ -38,7 +38,6 @@
 <div> 
     <h3>Contacts</h3>
     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://dev.to/rubenslferreira" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
     <a href="mailto:rubensifce00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubens-lima-363526149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
