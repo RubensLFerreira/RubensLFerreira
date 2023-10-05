@@ -19,6 +19,7 @@ const RubensLima = {
   <a href="https://github.com/RubensLFerreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RubensLFerreira&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensLFerreira&layout=compact&langs_count=7&theme=aura&hide_border=true&bg_color=0D1117"/>
+      <a href="https://app.daily.dev/rubenslimaferreira"><img src="https://api.daily.dev/devcards/103719d3d0834ee8b1f95425bcff9e6a.png?r=5y9" width="200" alt="Rubens Lima Ferreira's Dev Card"/></a>
 </div>
 
 <div style="display: inline_block" border: "1px solid orange"><br>
