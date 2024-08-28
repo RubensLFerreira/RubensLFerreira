@@ -1,6 +1,5 @@
-<div>
-    <h2>Hi, there! 🚀 It's me, Rubens Lima!</h2>
-</div>
+ ### Hi, there! 🚀 It's me, Rubens Lima!</h2>
+
 
 <table>
     <tr>
@@ -28,19 +27,17 @@
     </tr>
 </table>
 
-<div style="display: inline-block; border: 1px solid orange;"><br>
-    <h3>Technologies used</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,prisma,postgres,postman,jest&theme=dark" />
-    </a>
-</div>
+<!--
+### Technologies used
 
-<div style="display: inline-block; border: 1px solid orange;"><br>
-    <h3>Technologies I use the basics</h3>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,styledcomponents,vercel,materialui&theme=dark" />
-    </a>
-</div>
+| Stack   | Tecnologias    | 
+| :---------- | :--------- |
+| Back-end   |  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,prisma,sequelize&theme=dark" /> |
+| Front-end   |  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,styledcomponents,materialui&theme=dark" /> | 
+| Database   |  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo&theme=dark" /> | 
+| Infra/DevOps |  <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" /> | 
+| Tools |  <img src="https://skillicons.dev/icons?i=postman,vercel,jest,figma,git&theme=dark" /> | 
+-->
 
 <div>
     <h3>Contacts</h3>
